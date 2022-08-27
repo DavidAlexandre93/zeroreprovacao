@@ -150,9 +150,9 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
+            &copy; Todos os direitos reservados, © 2022 Zero Reprovação. Design by{' '}
+            <a href='https://www.davidalexandrefernandes.com.br/' rel='nofollow'>
+              David Alexandre
             </a>
           </p>
         </div>
