@@ -4,18 +4,18 @@
     "paragraph": "Consultoria para universitários e ensino técnico"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Sou engenheiro elétrico formado pela universidade federal do estado de São Paulo e licenciatura como professor de matemática.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Qualidade na entrega",
+      "Tempo de entrega",
+      "Garantia de pontuação",
+      "Acompanhamento academico"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Equipe especializada",
+      "Vários alunos ja atendidos",
+      "Experiencia de mercado",
+      "Metodo ágil implementado"
     ]
   },
   "Gallery": [
@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-book",
+      "name": "Trabalhos academicos",
+      "text": "Trabalhos academicos periodicos feitos e entregues tempo."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-pencil",
+      "name": "Provas academicas",
+      "text": "Realização de provas academicas de todos os tipos."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-graduation-cap",
+      "name": "Garantia",
+      "text": "Garantia de pontuação necessária para provas academicas."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-file-pdf-o",
+      "name": "Trabalhos de conclusão de curso",
+      "text": "Realização de trabalhos e formatação, acompanhamento e TCC`s."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-font",
+      "name": "Padronização de trabalho",
+      "text": "Trabalho de TCC realizado no padrão ABNT."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-eye",
+      "name": "Acompanhamento de portal",
+      "text": "Acompanhamento de portal do aluno para realizaçã de tarefas diárias."
     }
   ],
   "Testimonials": [
