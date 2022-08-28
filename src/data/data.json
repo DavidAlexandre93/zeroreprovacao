@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Zero Reprovação",
-    "paragraph": "Consultoria para universitários e ensino técnico"
+    "title": "Consultoria para universitários e ensino técnico",
+    "paragraph": "Entre em contato para saber mais informações"
   },
   "About": {
     "paragraph": "Sou engenheiro elétrico formado pela universidade federal do estado de São Paulo e licenciatura como professor de matemática.",
@@ -156,8 +156,8 @@
     "phone": "+55 ",
     "email": "zeroreprovacao@outlook.com",
     "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "instagram": "https://www.instagram.com/zeroreprovacao/",
+    "whatsapp": ""
   },
   "Features": [
     {
